@@ -45,3 +45,12 @@ span {
 #text span {
   background-color: white;
 } */
+
+.imagesize{
+  height: 100px;
+  width: 100px;
+}
+
+body {
+  text-align: center;
+}
